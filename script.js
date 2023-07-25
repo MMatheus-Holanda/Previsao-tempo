@@ -1,5 +1,5 @@
 
-const key = "fd227e4680fab2153d7856cb31bbe4e4"
+const key = "keyofAPIexample"
 
 
 function colocarDadosTela(dados) {
